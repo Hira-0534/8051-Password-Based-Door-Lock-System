@@ -69,15 +69,11 @@ The system allows access only when the correct password is entered using a keypa
 Password-Door-Lock-8051/
 │
 ├── proteus/
-│   ├── door_lock.pdsprj
+│   ├── doorlocking.pdsprj
 │   ├── door_lock.pdsbak
 │
 ├── hex/
-│   └── door_lock.hex
-│
-├── images/
-│   └── circuit.png
-│
+│   └── project.hex
 └── README.md
 ---
 
